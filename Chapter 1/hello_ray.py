@@ -1,5 +1,5 @@
-nx = 500;
-ny = 400;
+nx = 300;
+ny = 200;
 
 file = open("img.ppm", "w+");
 
